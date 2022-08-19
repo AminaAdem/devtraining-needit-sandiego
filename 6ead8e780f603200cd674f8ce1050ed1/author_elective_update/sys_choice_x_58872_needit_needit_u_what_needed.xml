@@ -20,7 +20,7 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Human Resources 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -31,9 +31,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>abbed23197d51110be92bf1e6253af05</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-14 17:15:38</sys_updated_on>
+            <sys_updated_on>2022-08-17 15:28:13</sys_updated_on>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,16 +44,16 @@
             <label>Human Resources 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>1</sequence>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-08-14 17:15:38</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>6fbed23197d51110be92bf1e6253af08</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-14 17:15:38</sys_updated_on>
+            <sys_updated_on>2022-08-17 15:28:13</sys_updated_on>
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -175,6 +175,26 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-08-14 17:15:38</sys_updated_on>
             <value>your_choice2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-17 15:28:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63e261b697d55110be92bf1e6253afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-17 15:28:13</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
